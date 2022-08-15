@@ -1,6 +1,8 @@
 ##############################
 ## Java
 ##############################
+restwebservice/target
+restwebservice/.idea
 .mtj.tmp/
 *.class
 *.jar
